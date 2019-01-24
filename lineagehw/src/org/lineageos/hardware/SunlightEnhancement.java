@@ -19,7 +19,7 @@ package org.lineageos.hardware;
 
 import android.util.Log;
 
-import com.android.internal.util.aosip.FileUtils;
+import com.android.internal.util.stag.FileUtils;
 
 public class SunlightEnhancement {
     private static final String TAG = "SunlightEnhancement";
